@@ -28,3 +28,7 @@
 ![devops-map](https://github.com/barnamenevisi/roadmap/assets/62311769/8d67ecbf-14ce-43d0-bfe9-1be27d3a7f38)
 
 > ترجمه از [AliRadmanesh](https://github.com/AliRadmanesh)
+
+
+## نکاتی برای ترجمه‌
+اگر‌ می‌خواید در توسعه و ترجمه این فایل مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید

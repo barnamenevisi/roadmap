@@ -11,6 +11,10 @@
 - [بک‌اند (Back-end)](#بکاند)
 - [دواپس (DevOps)](#دواپس)
 
+
+![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
+
+
 ## فرانت‌اند
 
 ![frontend-map](https://github.com/barnamenevisi/roadmap/assets/62311769/09577616-3180-49ff-8a6c-0173f3e78190)

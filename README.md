@@ -15,7 +15,9 @@
 - [بک‌اند (Back-end)](#بکاند)
 - [دواپس (DevOps)](#دواپس)
 - [اندروید (Android)](#اندروید)
+- [هوش‌مصنوعی‌ودانشمندداده (AI and Data Scientist)](#هوشمصنوعیودانشمندداده)
 - [پایتون (Python)](#پایتون)
+
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -40,6 +42,9 @@
 
 ![android-map](https://github.com/barnamenevisi/roadmap/assets/90189271/ceed5cba-6e25-44f6-888a-a30511d71a7f)
 
+## هوش‌مصنوعی‌ودانشمندداده
+
+![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/162f9a5e-4557-4e15-9774-cc2cdf8cbea1)
 
 ## پایتون
 

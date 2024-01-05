@@ -34,6 +34,10 @@
 ![devops-map](https://github.com/barnamenevisi/roadmap/assets/62311769/8d67ecbf-14ce-43d0-bfe9-1be27d3a7f38)
 
 
+## پایتون
+
+![python-map](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/397d0189-f957-4b9d-830d-a3a8a650a4cd)
+
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید

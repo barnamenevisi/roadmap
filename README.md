@@ -17,6 +17,7 @@
 - [اندروید (Android)](#اندروید)
 - [هوش‌مصنوعی‌ودانشمندداده (AI and Data Scientist)](#هوشمصنوعیودانشمندداده)
 - [پایتون (Python)](#پایتون)
+- [گو (Go)](#گو)
 
 
 
@@ -49,6 +50,12 @@
 ## پایتون
 
 ![python-map](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/397d0189-f957-4b9d-830d-a3a8a650a4cd)
+
+
+## گو
+
+![golang](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/d1217de8-c53c-4d8c-a7a3-38a273cefec5)
+
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید

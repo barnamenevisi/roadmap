@@ -8,12 +8,13 @@
 
 
 
-یکی از نقشه‌ راه‌های زیر رو انتخاب کن و طبق اون مسیر شروع کن به یادگیری. اگر هم به منابع یادگیری نیاز داری حتما به این [صفحه](https://github.com/barnamenevisi/free-resources) سر بزن و با کلی منابع **رایگان** شروع کن به یادگیری برنامه‌نویسی :)
+یکی از نقشه‌ راه‌های زیر رو انتخاب کنید و طبق اون مسیر شروع کنید به یادگیری. اگر هم به منابع یادگیری نیاز دارید حتما به این [صفحه](https://github.com/barnamenevisi/free-resources) سر بزنید و از کلی آموزش‌های **رایگان** برنامه‌نویسی استفاده کنید :)
 
 ## نقشه‌های راه 
 - [فرانت‌اند (Front-end)](#فرانتاند)
 - [بک‌اند (Back-end)](#بکاند)
 - [دواپس (DevOps)](#دواپس)
+- [اندروید (Android)](#اندروید)
 - [پایتون (Python)](#پایتون)
 
 
@@ -35,12 +36,23 @@
 ![devops-map](https://github.com/barnamenevisi/roadmap/assets/62311769/8d67ecbf-14ce-43d0-bfe9-1be27d3a7f38)
 
 
+## اندروید
+
+![android-map](https://github.com/barnamenevisi/roadmap/assets/90189271/ceed5cba-6e25-44f6-888a-a30511d71a7f)
+
+
 ## پایتون
 
 ![python-map](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/397d0189-f957-4b9d-830d-a3a8a650a4cd)
-
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید
 > **بر پایه نقشه‌های راه سایت [roadmap.sh](https://roadmap.sh)**
 
+
+
+
+## مرسی از تمام دوستانی که در این پروژه مشارکت کردند ❤️
+<a href="https://github.com/barnamenevisi/roadmap/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=barnamenevisi/roadmap" />
+</a>

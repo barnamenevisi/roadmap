@@ -43,7 +43,7 @@
 
 ## هوش‌مصنوعی‌ودانشمندداده
 
-![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/1bcfc8f3-ac51-488f-996f-b40ee0dae43a)
+![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/162f9a5e-4557-4e15-9774-cc2cdf8cbea1)
 
 
 

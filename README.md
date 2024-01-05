@@ -59,8 +59,6 @@
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید
-> **بر پایه نقشه‌های راه سایت [roadmap.sh](https://roadmap.sh)**
-
 
 
 
@@ -68,3 +66,10 @@
 <a href="https://github.com/barnamenevisi/roadmap/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=barnamenevisi/roadmap" />
 </a>
+
+
+## کپی‌رایت (copyright)
+**بر پایه نقشه‌های راه سایت [roadmap.sh](https://roadmap.sh)** 
+
+based on [roadmap.sh](https://roadmap.sh) **(Copyright © 2023 Kamran Ahmed <kamranahmed.se@gmail.com>)**
+

@@ -41,7 +41,7 @@
 
 ![android-map](https://github.com/barnamenevisi/roadmap/assets/90189271/ceed5cba-6e25-44f6-888a-a30511d71a7f)
 
-##هوش‌مصنوعی‌ودانشمندداده
+## هوش‌مصنوعی‌ودانشمندداده
 
 ![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/1bcfc8f3-ac51-488f-996f-b40ee0dae43a)
 

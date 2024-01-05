@@ -15,6 +15,7 @@
 - [بک‌اند (Back-end)](#بکاند)
 - [دواپس (DevOps)](#دواپس)
 - [اندروید (Android)](#اندروید)
+- [پایتون (Python)](#پایتون)
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -40,8 +41,9 @@
 ![android-map](https://github.com/barnamenevisi/roadmap/assets/90189271/ceed5cba-6e25-44f6-888a-a30511d71a7f)
 
 
+## پایتون
 
-
+![python-map](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/397d0189-f957-4b9d-830d-a3a8a650a4cd)
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید

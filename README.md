@@ -14,6 +14,7 @@
 - [فرانت‌اند (Front-end)](#فرانتاند)
 - [بک‌اند (Back-end)](#بکاند)
 - [دواپس (DevOps)](#دواپس)
+- [پایتون (Python)](#پایتون)
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)

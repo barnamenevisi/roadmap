@@ -16,6 +16,7 @@
 - [دواپس (DevOps)](#دواپس)
 - [اندروید (Android)](#اندروید)
 - [هوش‌مصنوعی‌ودانشمندداده (AI and Data Scientist)](#هوشمصنوعیودانشمندداده)
+- [پایتون (Python)](#پایتون)
 
 
 
@@ -45,7 +46,9 @@
 
 ![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/162f9a5e-4557-4e15-9774-cc2cdf8cbea1)
 
+## پایتون
 
+![python-map](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/397d0189-f957-4b9d-830d-a3a8a650a4cd)
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید

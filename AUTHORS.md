@@ -3,4 +3,4 @@
 3. Parsa Razavi
 4. Mahdi Dehghan
 5. Mahdi Abbasi
-6. Moawezz Baloch
+6. Moawezz Dehghani

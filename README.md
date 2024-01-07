@@ -18,7 +18,9 @@
 - [هوش‌مصنوعی‌ودانشمندداده (AI and Data Scientist)](#هوشمصنوعیودانشمندداده)
 - [پایتون (Python)](#پایتون)
 - [گو (Go)](#گو)
+- [جاوا(Java)](#جاوا)
 - [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
+
 
 
 
@@ -56,6 +58,10 @@
 ## گو
 
 ![golang](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/d1217de8-c53c-4d8c-a7a3-38a273cefec5)
+
+## جاوا
+
+![java](https://github.com/pariyaj/roadmap/assets/56969706/7968604c-b62c-451d-a481-34db5399d058)
 
 
 ## جاوا اسکریپت

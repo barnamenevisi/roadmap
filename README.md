@@ -19,6 +19,8 @@
 - [پایتون (Python)](#پایتون)
 - [گو (Go)](#گو)
 - [جاوا(Java)](#جاوا)
+- [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
+
 
 
 
@@ -62,7 +64,9 @@
 ![java](https://github.com/pariyaj/roadmap/assets/56969706/7968604c-b62c-451d-a481-34db5399d058)
 
 
+## جاوا اسکریپت
 
+![JavaScript](https://github.com/barnamenevisi/roadmap/assets/44638454/7922b028-c751-4718-bd1d-3afe99b4441e)
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید

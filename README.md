@@ -18,10 +18,9 @@
 - [هوش‌مصنوعی‌ودانشمندداده (AI and Data Scientist)](#هوشمصنوعیودانشمندداده)
 - [پایتون (Python)](#پایتون)
 - [گو (Go)](#گو)
+- [ریکت (React)](#ریکت)
 - [جاوا(Java)](#جاوا)
 - [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
-
-
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -58,6 +57,11 @@
 ## گو
 
 ![golang](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/d1217de8-c53c-4d8c-a7a3-38a273cefec5)
+
+## ریکت
+
+![React](https://github.com/barnamenevisi/roadmap/assets/44638454/b08bc294-3e68-4c3b-9604-7c101bbcc533)
+
 
 ## جاوا
 

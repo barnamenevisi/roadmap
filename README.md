@@ -71,7 +71,6 @@
 
 ## اسپرینگ-بوت
 ![SpringBoot](spring-boot-1-page-0.png)
-
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید
 

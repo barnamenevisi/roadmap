@@ -19,7 +19,8 @@
 - [پایتون (Python)](#پایتون)
 - [گو (Go)](#گو)
 - [ریکت (React)](#ریکت)
-
+- [جاوا(Java)](#جاوا)
+- [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -61,6 +62,15 @@
 
 ![React](https://github.com/barnamenevisi/roadmap/assets/44638454/b08bc294-3e68-4c3b-9604-7c101bbcc533)
 
+
+## جاوا
+
+![java](https://github.com/pariyaj/roadmap/assets/56969706/7968604c-b62c-451d-a481-34db5399d058)
+
+
+## جاوااسکریپت
+
+![JavaScript](https://github.com/barnamenevisi/roadmap/assets/44638454/7922b028-c751-4718-bd1d-3afe99b4441e)
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید

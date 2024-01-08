@@ -18,9 +18,13 @@
 - [هوش‌مصنوعی‌ودانشمندداده (AI and Data Scientist)](#هوشمصنوعیودانشمندداده)
 - [پایتون (Python)](#پایتون)
 - [گو (Go)](#گو)
+- [جاوا(Java)](#جاوا)
+- [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
+- [علوم کامپیوتر (Computer-science)](#علوم-کامپیوتر)
 - [ریکت (React)](#ریکت)
 - [جاوا(Java)](#جاوا)
 - [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
+
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -47,9 +51,36 @@
 
 ## هوش‌مصنوعی‌ودانشمندداده
 
+
 ![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/162f9a5e-4557-4e15-9774-cc2cdf8cbea1)
 
 ## پایتون
+
+![python-map](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/397d0189-f957-4b9d-830d-a3a8a650a4cd)
+
+
+## گو
+
+![golang](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/d1217de8-c53c-4d8c-a7a3-38a273cefec5)
+
+## جاوا
+
+![java](https://github.com/pariyaj/roadmap/assets/56969706/7968604c-b62c-451d-a481-34db5399d058)
+
+![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/162f9a5e-4557-4e15-9774-cc2cdf8cbea1)
+
+
+## جاوااسکریپت
+
+![JavaScript](https://github.com/barnamenevisi/roadmap/assets/44638454/7922b028-c751-4718-bd1d-3afe99b4441e)
+
+
+## علوم کامپیوتر
+
+![computer-science - persian](https://github.com/barnamenevisi/roadmap/assets/145687931/c629c1f8-0421-4991-b188-e700c70d2b59)
+
+## پایتون
+
 
 ![python-map](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/397d0189-f957-4b9d-830d-a3a8a650a4cd)
 

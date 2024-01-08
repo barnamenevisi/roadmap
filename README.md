@@ -19,7 +19,7 @@
 - [پایتون (Python)](#پایتون)
 - [گو (Go)](#گو)
 - [جاوا(Java)](#جاوا)
-- [اسپرینگ-بوت(Spring-Boot)](#اسپرینگ بوت)
+- [اسپرینگ-بوت(Spring-Boot)](#اسپرینگ-بوت)
 - [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
 
 
@@ -69,7 +69,7 @@
 
 ![JavaScript](https://github.com/barnamenevisi/roadmap/assets/44638454/7922b028-c751-4718-bd1d-3afe99b4441e)
 
-## اسپرینگ بوت
+## اسپرینگ-بوت
 ![SpringBoot](spring-boot-1-page-0.png)
 
 ## نکاتی برای ترجمه‌

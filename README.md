@@ -21,6 +21,10 @@
 - [جاوا(Java)](#جاوا)
 - [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
 - [اسپرینگ-بوت(Spring-Boot)](#اسپرینگ-بوت)
+- [علوم کامپیوتر (Computer-science)](#علوم-کامپیوتر)
+- [ریکت (React)](#ریکت)
+- [جاوا(Java)](#جاوا)
+- [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
 
 
 
@@ -48,6 +52,7 @@
 
 ## هوش‌مصنوعی‌ودانشمندداده
 
+
 ![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/162f9a5e-4557-4e15-9774-cc2cdf8cbea1)
 
 ## پایتون
@@ -58,6 +63,37 @@
 ## گو
 
 ![golang](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/d1217de8-c53c-4d8c-a7a3-38a273cefec5)
+
+## جاوا
+
+![java](https://github.com/pariyaj/roadmap/assets/56969706/7968604c-b62c-451d-a481-34db5399d058)
+
+![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/162f9a5e-4557-4e15-9774-cc2cdf8cbea1)
+
+
+## جاوااسکریپت
+
+![JavaScript](https://github.com/barnamenevisi/roadmap/assets/44638454/7922b028-c751-4718-bd1d-3afe99b4441e)
+
+
+## علوم کامپیوتر
+
+![computer-science - persian](https://github.com/barnamenevisi/roadmap/assets/145687931/c629c1f8-0421-4991-b188-e700c70d2b59)
+
+## پایتون
+
+
+![python-map](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/397d0189-f957-4b9d-830d-a3a8a650a4cd)
+
+
+## گو
+
+![golang](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/d1217de8-c53c-4d8c-a7a3-38a273cefec5)
+
+## ریکت
+
+![React](https://github.com/barnamenevisi/roadmap/assets/44638454/b08bc294-3e68-4c3b-9604-7c101bbcc533)
+
 
 ## جاوا
 

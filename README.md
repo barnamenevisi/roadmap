@@ -25,7 +25,7 @@
 - [ریکت (React)](#ریکت)
 - [جاوا(Java)](#جاوا)
 - [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
-
+-  [داکر (Docker)](#داکر)
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -55,11 +55,6 @@
 
 ![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/162f9a5e-4557-4e15-9774-cc2cdf8cbea1)
 
-## پایتون
-
-![python-map](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/397d0189-f957-4b9d-830d-a3a8a650a4cd)
-
-
 ## گو
 
 ![golang](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/d1217de8-c53c-4d8c-a7a3-38a273cefec5)
@@ -67,9 +62,6 @@
 ## جاوا
 
 ![java](https://github.com/pariyaj/roadmap/assets/56969706/7968604c-b62c-451d-a481-34db5399d058)
-
-![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/162f9a5e-4557-4e15-9774-cc2cdf8cbea1)
-
 
 ## جاوااسکریپت
 
@@ -104,8 +96,13 @@
 
 ![JavaScript](https://github.com/barnamenevisi/roadmap/assets/44638454/7922b028-c751-4718-bd1d-3afe99b4441e)
 
+
 ## اسپرینگ-بوت
-![spring-boot](https://github.com/safeparadise/roadmap/assets/45493389/82b0bb23-f95b-4fd2-9f2b-61e15cc1b823)
+![spring-boot](https://github.com/safeparadise/roadmap/assets/45493389/82b0bb23-f95b-4fd2-9f2b-61e15cc1b823) 
+
+
+## داکر
+![Docker](https://github.com/AmirAliAy/roadmap/assets/78584945/ada4aea9-0ef1-4211-a56e-95fc97c5511f)
 
 ## فلاتر
 

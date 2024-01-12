@@ -107,8 +107,8 @@
 ## اسپرینگ-بوت
 ![spring-boot](https://github.com/safeparadise/roadmap/assets/45493389/82b0bb23-f95b-4fd2-9f2b-61e15cc1b823) 
 
-##داکر
-![spring-boot](https://github.com/safeparadise/roadmap/assets/45493389/82b0bb23-f95b-4fd2-9f2b-61e15cc1b823)
+## داکر
+![Docker](https://github.com/safeparadise/roadmap/assets/45493389/82b0bb23-f95b-4fd2-9f2b-61e15cc1b823)
 
 
 ## نکاتی برای ترجمه‌

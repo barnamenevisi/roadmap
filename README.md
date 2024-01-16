@@ -28,6 +28,7 @@
 - [داکر (Docker)](#داکر)
 -  [فلاتر (Flutter)](#فلاتر)
 -  [بلاکچین (Blockchain)](#بلاکچین)
+-  [بازبینی کد(Code Review)](#بازبینی_کد)
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -113,6 +114,9 @@
 ## بلاکچین
 
 ![Blockchain - Roadmap](https://github.com/barnamenevisi/roadmap/assets/91389475/09a5d930-55f4-486b-86b2-477fcf35fd99)
+
+## بازبین-کد
+![code-review](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/c5477f22-0214-4e4b-ae02-16045e553921)
 
 
 ## نکاتی برای ترجمه‌

@@ -29,6 +29,7 @@
 -  [فلاتر (Flutter)](#فلاتر)
 -  [بلاکچین (Blockchain)](#بلاکچین)
 -  [بازبینی کد(Code Review)](#بازبینی_کد)
+-  [اس کیو ال (SQL)](#اس‌کیوال)
 - [پستگرس‌کیوال (PostgreSQL)](#پستگرس‌کیوال)
 
 
@@ -119,8 +120,14 @@
 ## بازبین-کد
 ![code-review](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/c5477f22-0214-4e4b-ae02-16045e553921)
 
+
+## اس‌کیوال
+![SQL](https://github.com/MrSinaxx/roadmap/assets/136380537/d38959ef-7c09-4862-9006-30fb1e9b0fee)
+
+
 ## پستگرس‌کیوال
 ![PostgreSQL](https://github.com/MrSinaxx/roadmap/assets/136380537/58887126-0629-4171-afaa-6bb9cc882490)
+
 
 
 

@@ -26,11 +26,13 @@
 - [جاوا(Java)](#جاوا)
 - [جاوااسکریپت (JavaScript)](#جاوااسکریپت)
 - [داکر (Docker)](#داکر)
--  [فلاتر (Flutter)](#فلاتر)
--  [بلاکچین (Blockchain)](#بلاکچین)
--  [بازبینی کد(Code Review)](#بازبینی_کد)
--  [اس کیو ال (SQL)](#اس‌کیوال)
+- [فلاتر (Flutter)](#فلاتر)
+- [بلاکچین (Blockchain)](#بلاکچین)
+- [بازبینی کد(Code Review)](#بازبینی_کد)
+- [اس کیو ال (SQL)](#اس‌کیوال)
 - [پستگرس‌کیوال (PostgreSQL)](#پستگرس‌کیوال)
+- [طراحی نرم افزار و معماری(software-design-architecture)](#طراحی-نرم-افزار-و-معماری)
+- [امنیت در API (api-securityا)](#امنیت-در-API)
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -80,12 +82,13 @@
 ## پایتون
 
 
-![python-map](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/397d0189-f957-4b9d-830d-a3a8a650a4cd)
+![python](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/7f502eba-55c7-4307-8ef7-d7237b3a4f81)
+
 
 
 ## گو
 
-![golang](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/d1217de8-c53c-4d8c-a7a3-38a273cefec5)
+![golang](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/f86bf333-d2e2-452b-9a7f-2af56cac9816)
 
 ## ریکت
 
@@ -119,6 +122,12 @@
 
 ## بازبین-کد
 ![code-review](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/c5477f22-0214-4e4b-ae02-16045e553921)
+
+## طراحی-نرم-افزار-و-معماری
+![software-design-architecture](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/718c0307-eb0f-4f2f-8523-d9722fb5ad5b)
+
+## امنیت-در-API
+![api-security](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/61d46847-a20c-4eea-be51-ffd81a0f362c)
 
 
 ## اس‌کیوال

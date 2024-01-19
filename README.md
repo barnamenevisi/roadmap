@@ -29,7 +29,9 @@
 -  [فلاتر (Flutter)](#فلاتر)
 -  [بلاکچین (Blockchain)](#بلاکچین)
 -  [بازبینی کد(Code Review)](#بازبینی_کد)
--  [طراحی نرم افزار و معماری(software-design-architecture)](#طراحی-نرم-افزار-و-معماری)
+-  [اس کیو ال (SQL)](#اس‌کیوال)
+- [پستگرس‌کیوال (PostgreSQL)](#پستگرس‌کیوال)
+- [طراحی نرم افزار و معماری(software-design-architecture)](#طراحی-نرم-افزار-و-معماری)
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -122,6 +124,16 @@
 
 ## طراحی-نرم-افزار-و-معماری
 ![software-design-architecture](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/718c0307-eb0f-4f2f-8523-d9722fb5ad5b)
+
+
+## اس‌کیوال
+![SQL](https://github.com/MrSinaxx/roadmap/assets/136380537/d38959ef-7c09-4862-9006-30fb1e9b0fee)
+
+
+## پستگرس‌کیوال
+![PostgreSQL](https://github.com/MrSinaxx/roadmap/assets/136380537/58887126-0629-4171-afaa-6bb9cc882490)
+
+
 
 
 ## نکاتی برای ترجمه‌

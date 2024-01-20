@@ -33,6 +33,7 @@
 - [پستگرس‌کیوال (PostgreSQL)](#پستگرس‌کیوال)
 - [طراحی نرم افزار و معماری(software-design-architecture)](#طراحی-نرم-افزار-و-معماری)
 - [امنیت در API (api-security )](#امنیت-در-API)
+- [ویو جی اس (Vue.Js)](#vue.js)
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -137,6 +138,8 @@
 ## پستگرس‌کیوال
 ![PostgreSQL](https://github.com/MrSinaxx/roadmap/assets/136380537/58887126-0629-4171-afaa-6bb9cc882490)
 
+##ویو جی اس
+![vue](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/9a2e8cc1-e90f-401a-a1bf-fe675d36bbee)
 
 
 

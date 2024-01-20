@@ -149,7 +149,7 @@
 
 ![typescript](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/47367306-a007-4015-86a9-28767a4991fb)
 
-##مهندسی پرامت نویسی
+## مهندسی پرامت نویسی
 
 ![prompt-engineering](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/f3645a7a-d6e3-4dd8-b1bf-202da44caa47)
 

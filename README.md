@@ -138,7 +138,7 @@
 ## پستگرس‌کیوال
 ![PostgreSQL](https://github.com/MrSinaxx/roadmap/assets/136380537/58887126-0629-4171-afaa-6bb9cc882490)
 
-##ویو جی اس
+## ویو جی اس
 ![vue](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/9a2e8cc1-e90f-401a-a1bf-fe675d36bbee)
 
 

@@ -120,7 +120,7 @@
 
 ![Blockchain - Roadmap](https://github.com/barnamenevisi/roadmap/assets/91389475/09a5d930-55f4-486b-86b2-477fcf35fd99)
 
-## بازبین-کد
+## بازبینی-کد
 ![code-review](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/c5477f22-0214-4e4b-ae02-16045e553921)
 
 ## طراحی-نرم-افزار-و-معماری

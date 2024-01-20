@@ -33,7 +33,7 @@
 - [پستگرس‌کیوال (PostgreSQL)](#پستگرس‌کیوال)
 - [طراحی نرم افزار و معماری(software-design-architecture)](#طراحی-نرم-افزار-و-معماری)
 - [امنیت در API (api-security )](#امنیت-در-API)
-- [ویو جی اس (Vue.Js)](#vue.js)
+- [ویو جی اس (Vue.Js)](#ویو-جی-اس)
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)

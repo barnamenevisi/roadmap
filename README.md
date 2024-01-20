@@ -46,23 +46,19 @@
 
 ![frontend-map](https://github.com/barnamenevisi/roadmap/assets/62311769/09577616-3180-49ff-8a6c-0173f3e78190)
 
-
 ## بک‌اند
 
 ![backend-map](https://github.com/barnamenevisi/roadmap/assets/62311769/01c65476-296c-439d-8418-56b3976792b3)
 
-
 ## دواپس
 
 ![devops-map](https://github.com/barnamenevisi/roadmap/assets/62311769/8d67ecbf-14ce-43d0-bfe9-1be27d3a7f38)
-
 
 ## اندروید
 
 ![android-map](https://github.com/barnamenevisi/roadmap/assets/90189271/ceed5cba-6e25-44f6-888a-a30511d71a7f)
 
 ## هوش‌مصنوعی‌ودانشمندداده
-
 
 ![aianddatascientist-map](https://github.com/barnamenevisi/roadmap/assets/143089802/162f9a5e-4557-4e15-9774-cc2cdf8cbea1)
 
@@ -78,17 +74,13 @@
 
 ![JavaScript](https://github.com/barnamenevisi/roadmap/assets/44638454/7922b028-c751-4718-bd1d-3afe99b4441e)
 
-
 ## علوم کامپیوتر
 
 ![computer-science - persian](https://github.com/barnamenevisi/roadmap/assets/145687931/c629c1f8-0421-4991-b188-e700c70d2b59)
 
 ## پایتون
 
-
 ![python](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/7f502eba-55c7-4307-8ef7-d7237b3a4f81)
-
-
 
 ## گو
 
@@ -98,22 +90,20 @@
 
 ![React](https://github.com/barnamenevisi/roadmap/assets/44638454/b08bc294-3e68-4c3b-9604-7c101bbcc533)
 
-
 ## جاوا
 
 ![java](https://github.com/pariyaj/roadmap/assets/56969706/7968604c-b62c-451d-a481-34db5399d058)
-
 
 ## جاوااسکریپت
 
 ![JavaScript](https://github.com/barnamenevisi/roadmap/assets/44638454/7922b028-c751-4718-bd1d-3afe99b4441e)
 
-
 ## اسپرینگ-بوت
+
 ![spring-boot](https://github.com/safeparadise/roadmap/assets/45493389/82b0bb23-f95b-4fd2-9f2b-61e15cc1b823) 
 
-
 ## داکر
+
 ![Docker](https://github.com/AmirAliAy/roadmap/assets/78584945/ada4aea9-0ef1-4211-a56e-95fc97c5511f)
 
 ## فلاتر
@@ -125,20 +115,23 @@
 ![Blockchain - Roadmap](https://github.com/barnamenevisi/roadmap/assets/91389475/09a5d930-55f4-486b-86b2-477fcf35fd99)
 
 ## بازبینی-کد
+
 ![code-review](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/c5477f22-0214-4e4b-ae02-16045e553921)
 
 ## طراحی-نرم-افزار-و-معماری
+
 ![software-design-architecture](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/718c0307-eb0f-4f2f-8523-d9722fb5ad5b)
 
 ## امنیت-در-API
+
 ![api-security](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/61d46847-a20c-4eea-be51-ffd81a0f362c)
 
-
 ## اس‌کیوال
+
 ![SQL](https://github.com/MrSinaxx/roadmap/assets/136380537/d38959ef-7c09-4862-9006-30fb1e9b0fee)
 
-
 ## پستگرس‌کیوال
+
 ![PostgreSQL](https://github.com/MrSinaxx/roadmap/assets/136380537/58887126-0629-4171-afaa-6bb9cc882490)
 
 ## ویو جی اس

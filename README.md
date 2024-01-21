@@ -31,7 +31,7 @@
 - [بازبینی کد(Code Review)](#بازبینی_کد)
 - [اس کیو ال (SQL)](#اس‌کیوال)
 - [پستگرس‌کیوال (PostgreSQL)](#پستگرس‌کیوال)
-- [مونگو (MongoDB)](#مونگو-DB)
+- [دیتابیس مونگو|مانگو (MongoDB)](#مانگو-دی‌بی)
 - [طراحی نرم افزار و معماری(software-design-architecture)](#طراحی-نرم-افزار-و-معماری)
 - [امنیت در API (api-security )](#امنیت-در-API)
 
@@ -139,7 +139,7 @@
 ![PostgreSQL](https://github.com/MrSinaxx/roadmap/assets/136380537/58887126-0629-4171-afaa-6bb9cc882490)
 
 
-## مونگو-DB
+## مانگو دی‌بی
 ![mongodb](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/647e467d-bd74-4522-a3af-d6e7d1912223)
 
 

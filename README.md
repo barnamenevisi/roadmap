@@ -34,6 +34,7 @@
 - [مونگو (MongoDB)](#مونگو-DB)
 - [طراحی نرم افزار و معماری(software-design-architecture)](#طراحی-نرم-افزار-و-معماری)
 - [امنیت در API (api-securityا)](#امنیت-در-API)
+- [راست (rust)](#راست)
 
 
 ![web developer](https://github.com/barnamenevisi/roadmap/assets/62311769/69177a81-a1aa-4216-8fa5-80f0f12d51d4)
@@ -142,7 +143,9 @@
 ## مونگو-DB
 ![mongodb](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/647e467d-bd74-4522-a3af-d6e7d1912223)
 
+## راست
 
+![rust](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/097c2cbe-b35f-40e8-8e34-7f1c2a32c778)
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید

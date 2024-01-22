@@ -33,10 +33,12 @@
 - [پستگرس‌کیوال (PostgreSQL)](#پستگرس‌کیوال)
 - [دیتابیس مونگو|مانگو (MongoDB)](#مانگو-دی‌بی)
 - [طراحی نرم افزار و معماری(software-design-architecture)](#طراحی-نرم-افزار-و-معماری)
+- [امنیت در API (api-securityا)](#امنیت-در-API)
 - [امنیت در API (api-security )](#امنیت-در-API)
 - [ویو جی اس (Vue.Js)](#ویو-جی-اس)
 - [تایپ اسکریپت (TypeScript)](#تایپ-اسکریپت)
 - [مهندسی پرامت نویسی (PromptEngineering)](#مهندسی-پرامت-نویسی)
+- [راست (rust)](#راست)
 
 
 
@@ -151,7 +153,9 @@
 ## مانگو دی‌بی
 ![mongodb](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/647e467d-bd74-4522-a3af-d6e7d1912223)
 
+## راست
 
+![rust](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/097c2cbe-b35f-40e8-8e34-7f1c2a32c778)
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید

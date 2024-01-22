@@ -39,6 +39,7 @@
 - [تایپ اسکریپت (TypeScript)](#تایپ-اسکریپت)
 - [مهندسی پرامت نویسی (PromptEngineering)](#مهندسی-پرامت-نویسی)
 - [راست (rust)](#راست)
+- [کوبرنیتز (Kubernetes)](#کوبرنیتز)
 
 
 
@@ -156,6 +157,10 @@
 ## راست
 
 ![rust](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/097c2cbe-b35f-40e8-8e34-7f1c2a32c778)
+
+## کوبرنیتز
+![kubernetes](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/1e2795e7-a142-4665-8534-858a8a23cf16)
+
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید

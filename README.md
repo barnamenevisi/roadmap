@@ -41,6 +41,9 @@
 - [راست (rust)](#راست)
 - [کوبرنیتز (Kubernetes)](#کوبرنیتز)
 - [گراف کیو-ال (QraphQL)](#گراف-کیو-ال)
+- [طراحی سیستم (System Design)](#طراحی-سیستم)
+- [تضمین کیفیت (QA)](#تضمین-کیفیت)
+- [نویسندگی فنی (Technical Writer)](#نویسندگی-فنی)
 
 
 
@@ -164,6 +167,15 @@
 
 ## گراف-کیو-ال
 ![graphql](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/d3499f69-c89a-480b-bdbc-c13825c29ec7)
+
+## طراحی سیستم
+![system-design](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/ee80ee9b-d324-4171-9f6d-2d569c7e0082)
+
+## تضمین کیفیت
+![qa](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/41d134d1-6544-441a-a159-a7d43335b998)
+
+## نویسندگی فنی
+![technical-writer](https://github.com/Mohammadzamanhpv/roadmap/assets/77173590/31ed1ad3-d4c5-4c06-a38f-e0d550ff2782)
 
 
 ## نکاتی برای ترجمه‌
